@@ -1,0 +1,1 @@
+# Program will guess your imaginary number as efficiently as possible in range from 0-1000 in max 10 tries
